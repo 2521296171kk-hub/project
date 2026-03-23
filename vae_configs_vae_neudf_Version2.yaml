@@ -1,0 +1,8 @@
+model:
+  in_channels: 1
+  latent_dim: 256
+training:
+  resolution: 64
+  batch_size: 8
+  epochs: 50
+  num_samples: 1000
